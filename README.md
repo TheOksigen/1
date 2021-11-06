@@ -15,3 +15,8 @@ NeonUserBot's İnstaller.
 <h3>CREDİT.</h3>
 
 >*[AsenaUserBot](https://GitHub.com/YusufUsta/AsenaUserBot) / [YusufUsta](https://GitHub.com/YusufUsta/)*
+
+# Neon's Creator.
+><a href='https://t.me/theoksigen'>Oksigen</a>
+
+><a href='https://t.me/nusrte'>Nusrte</a>
