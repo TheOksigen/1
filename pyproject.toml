@@ -1,0 +1,14 @@
+[tool]
+[tool.poetry]
+name = "AlphaUserBot_Deployer"
+version = "1.2"
+description = "Auto DEPLOY AlphaUserBot"
+authors = ["Sirvhan <@sirvhan>"]
+[tool.poetry.dependencies]
+python = "^3.8"
+bs4 = "*"
+gitpython = "*"
+heroku3 = "*"
+requests = "*"
+rich = "*"
+telethon = "*"
