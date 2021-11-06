@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/nusrte/NeonUserBot-Old/blob/master/photo/neonub.jpg" width="300" height="300">
+  <img src="https://i.ibb.co/H4zk5Qn/ec8fe152dbe87791e3258.jpg" width="300" height="300">
 </div>
 <h1 align="center">
 NeonUserBot's İnstaller.
